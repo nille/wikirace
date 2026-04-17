@@ -40,7 +40,3 @@ You're given a random start article and a random target. Browse the links on eac
 
 - Rust 1.75+ (or use [mise](https://mise.jdx.dev/): `mise install`)
 - Internet connection (fetches from Wikipedia API)
-
-## License
-
-MIT
